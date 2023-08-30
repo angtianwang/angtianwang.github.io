@@ -1,14 +1,14 @@
 # Basic Information 
-title: Your Name
+title: Angtian Wang
 position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+affiliation: Johns Hopkins University
+email: angtianwang@jhu.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Computer Vision, 3D Vision, Differentiable Rendering, Inverse Graphics
+description: I am Angtian Wang, a current PhD student in the Department of Computer Science at Johns Hopkins University, advised by Bloomberg Distinguished Professor Dr. Alan Yuille.
+canonical: https://angtianwang.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
