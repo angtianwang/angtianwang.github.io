@@ -136,9 +136,7 @@
     <div class="links">
       <a href="http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Robust_Object_Detection_Under_Occlusion_With_Context-Aware_CompositionalNets_CVPR_2020_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <!-- The links for Code, Project Page, and BibTex are placeholders as they are not provided in the LaTeX input. If available, they should be updated accordingly. -->
-      <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <a href="https://github.com/Angtian/OccludedPASCAL3D" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <!-- If this publication has an oral presentation or any other highlight, it can be added here. -->
     </div>
   </div>
@@ -167,6 +165,167 @@
   </div>
 </div>
 </li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICLR</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://openreview.net/pdf?id=A2mRcRyGdl">Semantic Flow: Learning Semantic Fields of Dynamic Scenes from Monocular Videos.</a></div>
+    <div class="author">Fengrui Tian, Yueqi Duan, <strong>Angtian Wang</strong>, Jianfei Guo, Shaoyi Du</div>
+    <div class="periodical"><em>International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.</em></div>
+    <div class="links">
+      <a href="https://openreview.net/pdf?id=A2mRcRyGdl" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- The links for Code, Project Page, and BibTex are placeholders since they were not provided. If available, update them accordingly. -->
+      <a href="https://github.com/tianfr/Semantic-Flow/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <!-- Include any highlights or notable features of the publication here, such as awards or special mentions. -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICLR</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2306.08103.pdf">Adding 3D Geometry Control to Diffusion Models</a></div>
+    <div class="author">Wufei Ma, Qihao Liu, Jiahao Wang, <strong>Angtian Wang</strong>, Xiaoding Yuan, Yi Zhang, Zihao Xiao, Guofeng Zhang, Beijia Lu, Ruxiao Duan, Yongrui Qi, Adam Kortylewski, Yaoyao Liu, Alan Yuille</div>
+    <div class="periodical"><em>International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2306.08103.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- As before, placeholders for Code, Project Page, and BibTex links are provided and should be updated with actual URLs when available. -->
+      <a href="https://github.com/wufeim/DST3D" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://ccvl.jhu.edu/3D-DST/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <!-- Any notable highlights or recognitions related to the publication can be mentioned here. -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">WACV</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2305.16124.pdf">Robust Category-Level 3D Pose Estimation from Synthetic Data</a></div>
+    <div class="author">Jiahao Yang, Wufei Ma, <strong>Angtian Wang</strong>, Xiaoding Yuan, Alan Yuille, Adam Kortylewski</div>
+    <div class="periodical"><em>IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2024.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2305.16124.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- Placeholders for Code, Project Page, and BibTex links are included and should be updated with actual URLs when they become available. -->
+      <!-- Include any notable highlights or recognitions related to the publication here. -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICCV</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_3D-Aware_Neural_Body_Fitting_for_Occlusion_Robust_3D_Human_Pose_ICCV_2023_paper.pdf">3D-Aware Neural Body Fitting for Occlusion Robust 3D Human Pose Estimation</a></div>
+    <div class="author">Yi Zhang, Pengliang Ji, <strong>Angtian Wang</strong>, Jieru Mei, Adam Kortylewski, Alan Yuille</div>
+    <div class="periodical"><em>International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.</em></div>
+    <div class="links">
+      <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_3D-Aware_Neural_Body_Fitting_for_Occlusion_Robust_3D_Human_Pose_ICCV_2023_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- Placeholders for Code, Project Page, and BibTex links are provided and should be updated with actual URLs when available. -->
+      <a href="https://github.com/edz-o/3DNBF" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://3dnbf.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <!-- Any special mentions or highlights related to the publication can be included here. -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">WACV</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2009.14115.pdf">CoKe: Localized Contrastive Learning for Robust Keypoint Detection</a></div>
+    <div class="author">Yutong Bai*, <strong>Angtian Wang*</strong>, Adam Kortylewski, Alan Yuille</div>
+    <div class="periodical"><em>IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2023.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2009.14115.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- Placeholders for Code, Project Page, and BibTex links are provided. They should be updated with actual URLs when available. -->
+      <!-- Include any special mentions or highlights related to the publication here. -->
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ECCV</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2209.05624.pdf">Robust Category-Level 6D Pose Estimation with Coarse-to-Fine Rendering of Neural Features</a></div>
+    <div class="author">Wufei Ma, <strong>Angtian Wang</strong>, Alan Yuille, Adam Kortylewski</div>
+    <div class="periodical"><em>European Conference on Computer Vision <strong>(ECCV)</strong>, 2022.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2209.05624.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- Placeholders for Code, Project Page, and BibTex links are provided. They should be updated with actual URLs when available. -->
+      <a href="https://github.com/wufeim/6d_pose_eccv22" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <!-- Additional notable publication highlights or recognitions can be mentioned here. -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ECCV</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://openreview.net/pdf?id=Y11fVS4n8d9">OOD-CV: A Benchmark for Robustness to Individual Nuisances in Real-World Out-of-Distribution Shifts</a></div>
+    <div class="author">Bingchen Zhao, Shaozuo Yu, Wufei Ma, Mingxin Yu, Shenxiao Mei, <strong>Angtian Wang</strong>, Ju He, Alan Yuille, Adam Kortylewski</div>
+    <div class="periodical"><em>European Conference on Computer Vision <strong>(ECCV)</strong>, 2022.</em></div>
+    <div class="links">
+      <a href="https://openreview.net/pdf?id=Y11fVS4n8d9" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- Placeholders for Code, Project Page, and BibTex links are provided. They should be updated with actual URLs when available. -->
+      <a href="https://www.ood-cv.org/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <!-- Include any notable highlights or recognitions related to the publication here. -->
+    </div>
+  </div>
+</div>
+</li>
+
 
 
 
