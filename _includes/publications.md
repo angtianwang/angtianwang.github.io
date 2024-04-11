@@ -327,6 +327,184 @@
 </li>
 
 
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">IJCV</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2006.15538">Compositional Convolutional Neural Networks: A Robust and Interpretable Model for Object Recognition under Occlusion</a></div>
+    <div class="author">Adam Kortylewski, Qing Liu, <strong>Angtian Wang</strong>, Yihong Sun, Alan Yuille</div>
+    <div class="periodical"><em>International Journal of Computer Vision <strong>(IJCV)</strong>, 2020.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2006.15538" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- As in previous examples, placeholders for Code, Project Page, and BibTex links are included. Should be updated with actual URLs when available. -->
+      <a href="https://github.com/AdamKortylewski/CompositionalNets" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <!-- Any notable publication highlights or recognitions can be included here. -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">MICCAI</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/1909.00906.pdf">Hyper-Pairing Network for Multi-Phase Pancreatic Ductal Adenocarcinoma Segmentation</a></div>
+    <div class="author">Yuyin Zhou, Yingwei Li, Zhishuai Zhang, Yan Wang, <strong>Angtian Wang</strong>, Elliot Fishman, Alan Yuille, Seyoun Park</div>
+    <div class="periodical"><em>International Conference on Medical Image Computing and Computer Assisted Intervention <strong>(MICCAI)</strong>, 2019.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/1909.00906.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- Placeholders for Code, Project Page, and BibTex links are included. They should be updated with actual URLs when available. -->
+      <!-- Additional publication highlights or recognitions can be included here. -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ECCV</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Peng_Tang_Weakly_Supervised_Region_ECCV_2018_paper.pdf">Weakly Supervised Region Proposal Network and Object Detection</a></div>
+    <div class="author">Peng Tang, Xinggang Wang, <strong>Angtian Wang</strong>, Yongluan Yan, Wenyu Liu, Junzhou Huang, Alan Yuille</div>
+    <div class="periodical"><em>European Conference on Computer Vision <strong>(ECCV)</strong>, 2018.</em></div>
+    <div class="links">
+      <a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Peng_Tang_Weakly_Supervised_Region_ECCV_2018_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- Placeholders for Code, Project Page, and BibTex links are provided. They should be updated with actual URLs when available. -->
+      <!-- Additional publication highlights or recognitions can be mentioned here. -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <!-- As this publication is from a workshop, a general badge like 'NeurIPS Workshop' or the year may be used. Adjust according to your needs. -->
+    <abbr class="badge">NeurIPS Workshop</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://openreview.net/pdf?id=FO8alu6qRNW.pdf">Volumetric Neural Human for Robust Pose Optimization via Analysis-by-synthesis</a></div>
+    <div class="author">Pengliang Ji, <strong>Angtian Wang</strong>, Yi Zhang, Adam Kortylewski, Alan Yuille</div>
+    <div class="periodical"><em>NeurIPS 2022 Workshop</em></div>
+    <div class="links">
+      <a href="https://openreview.net/pdf?id=FO8alu6qRNW.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- Placeholders for Code, Project Page, and BibTex links are provided. They should be updated with actual URLs when available. -->
+      <!-- Additional publication highlights or recognitions can be mentioned here. -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv Preprint</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2404.05626.pdf">Learning a Category-level Object Pose Estimator without Pose Annotations</a></div>
+    <div class="author">Fengrui Tian, Yaoyao Liu, Adam Kortylewski, Yueqi Duan, Shaoyi Du, Alan Yuille, <strong>Angtian Wang</strong></div>
+    <div class="periodical"><em>arXiv preprint 2024</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2404.05626.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- Placeholders for Code, Project Page, and BibTex links are included. They should be updated with actual URLs when available. -->
+      <!-- Additional publication highlights or recognitions can be included here. -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv Preprint</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2403.04116.pdf">Radiative Gaussian Splatting for Efficient X-ray Novel View Synthesis</a></div>
+    <div class="author">Yuanhao Cai, Yixun Liang, Jiahao Wang, <strong>Angtian Wang</strong>, Yulun Zhang, Xiaokang Yang, Zongwei Zhou, Alan Yuille</div>
+    <div class="periodical"><em>arXiv preprint 2024</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2403.04116.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- Placeholders for Code, Project Page, and BibTex links are provided. They should be updated with actual URLs when available. -->
+      <!-- Additional publication highlights or recognitions can be included here. -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <!-- As this publication is an arXiv preprint, 'arXiv' or the year may be used as a badge. Adjust according to your needs. -->
+    <abbr class="badge">arXiv Preprint</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2305.14668.pdf">Robust 3D-aware Object Classification via Discriminative Render-and-Compare</a></div>
+    <div class="author">Artur Jesslen, Guofeng Zhang, <strong>Angtian Wang</strong>, Alan Yuille, Adam Kortylewski</div>
+    <div class="periodical"><em>arXiv preprint 2023</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2305.14668.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- Placeholders for Code, Project Page, and BibTex links are included. Should be updated with actual URLs when available. -->
+      <!-- Additional publication highlights or recognitions can be mentioned here. -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv Preprint</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2301.04075.pdf">Benchmarking Robustness in Neural Radiance Fields</a></div>
+    <div class="author">Chen Wang, <strong>Angtian Wang</strong>, Junbo Li, Alan Yuille, Cihang Xie</div>
+    <div class="periodical"><em>arXiv preprint 2023</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2301.04075.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- Placeholders for Code, Project Page, and BibTex links are provided. These should be updated with actual URLs when available. -->
+      <!-- Additional publication highlights or recognitions can be included here. -->
+    </div>
+  </div>
+</div>
+</li>
+
 
 
 
