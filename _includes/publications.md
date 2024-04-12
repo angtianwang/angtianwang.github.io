@@ -8,7 +8,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/hisr.png" class="teaser img-fluid z-depth-1">
+    <img src="img/hisr.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">AAAI</abbr>
   </div>
 
@@ -31,7 +31,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <img src="img/teaser_example.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">WACV</abbr>
   </div>
 
@@ -54,7 +54,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <img src="img/teaser_example.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ICLR</abbr>
   </div>
 
@@ -78,7 +78,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <img src="img/teaser_example.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">NIPS</abbr>
   </div>
 
@@ -101,7 +101,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <img src="img/teaser_example.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ICLR</abbr>
   </div>
 
@@ -125,7 +125,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <img src="img/teaser_example.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">CVPR</abbr>
   </div>
 
@@ -148,7 +148,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <img src="img/teaser_example.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">CVPR</abbr>
   </div>
 
@@ -171,7 +171,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <img src="img/teaser_example.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ICLR</abbr>
   </div>
 
@@ -194,7 +194,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <img src="img/teaser_example.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ICLR</abbr>
   </div>
 
@@ -218,7 +218,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <img src="img/teaser_example.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">WACV</abbr>
   </div>
 
@@ -240,7 +240,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <img src="img/teaser_example.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ICCV</abbr>
   </div>
 
@@ -264,7 +264,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <img src="img/teaser_example.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">WACV</abbr>
   </div>
 
@@ -285,7 +285,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <img src="img/teaser_example.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ECCV</abbr>
   </div>
 
@@ -308,7 +308,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <img src="img/teaser_example.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ECCV</abbr>
   </div>
 
@@ -331,7 +331,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <img src="img/teaser_example.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">IJCV</abbr>
   </div>
 
@@ -354,7 +354,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <img src="img/teaser_example.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">MICCAI</abbr>
   </div>
 
@@ -376,7 +376,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <img src="img/teaser_example.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ECCV</abbr>
   </div>
 
@@ -398,7 +398,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <img src="img/teaser_example.png" class="teaser img-fluid z-depth-1">
     <!-- As this publication is from a workshop, a general badge like 'NeurIPS Workshop' or the year may be used. Adjust according to your needs. -->
     <abbr class="badge">NeurIPS Workshop</abbr>
   </div>
@@ -421,7 +421,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <img src="img/teaser_example.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv Preprint</abbr>
   </div>
 
@@ -443,7 +443,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <img src="img/teaser_example.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv Preprint</abbr>
   </div>
 
@@ -465,7 +465,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <img src="img/teaser_example.png" class="teaser img-fluid z-depth-1">
     <!-- As this publication is an arXiv preprint, 'arXiv' or the year may be used as a badge. Adjust according to your needs. -->
     <abbr class="badge">arXiv Preprint</abbr>
   </div>
@@ -488,7 +488,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <img src="img/teaser_example.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv Preprint</abbr>
   </div>
 
