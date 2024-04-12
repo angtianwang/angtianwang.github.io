@@ -399,29 +399,6 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="img/teaser_example.png" class="teaser img-fluid z-depth-1">
-    <!-- As this publication is from a workshop, a general badge like 'NeurIPS Workshop' or the year may be used. Adjust according to your needs. -->
-    <abbr class="badge">NeurIPS Workshop</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://openreview.net/pdf?id=FO8alu6qRNW.pdf">Volumetric Neural Human for Robust Pose Optimization via Analysis-by-synthesis</a></div>
-    <div class="author">Pengliang Ji, <strong>Angtian Wang</strong>, Yi Zhang, Adam Kortylewski, Alan Yuille</div>
-    <div class="periodical"><em>NeurIPS 2022 Workshop</em></div>
-    <div class="links">
-      <a href="https://openreview.net/pdf?id=FO8alu6qRNW.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <!-- Placeholders for Code, Project Page, and BibTex links are provided. They should be updated with actual URLs when available. -->
-      <!-- Additional publication highlights or recognitions can be mentioned here. -->
-    </div>
-  </div>
-</div>
-</li>
-
-
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="img/teaser_example.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv Preprint</abbr>
   </div>
 
