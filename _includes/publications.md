@@ -31,7 +31,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <img src="img/NTDM.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">WACV</abbr>
   </div>
 
@@ -54,7 +54,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <img src="img/VoGE.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ICLR</abbr>
   </div>
 
@@ -78,7 +78,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <img src="img/NVSM.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">NIPS</abbr>
   </div>
 
