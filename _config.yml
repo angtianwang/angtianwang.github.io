@@ -7,7 +7,7 @@ email: angtianwang@jhu.edu
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Computer Vision, 3D Vision, Differentiable Rendering, Inverse Graphics
-description: I am Angtian Wang, a current PhD student in the Department of Computer Science at Johns Hopkins University, advised by Bloomberg Distinguished Professor Dr. Alan Yuille.
+description: I am Angtian Wang, a research scientist at ByteDance. I received my PhD from Johns Hopkins University, advised by Bloomberg Distinguished Professor Dr. Alan Yuille.
 canonical: https://angtianwang.github.io/
 
 # Links 
@@ -19,7 +19,7 @@ linkedin: https://www.linkedin.com/in/angtian-wang-45977921b/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
+avatar: ./assets/img/avatar.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
