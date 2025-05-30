@@ -3,6 +3,31 @@
 <div class="publications">
 <ol class="bibliography">
 
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/ATI.gif" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ArXiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2505.22944">ATI: Any Trajectory Instruction for Controllable Video Generation</a></div>
+    <div class="author"><strong>Angtian Wang</strong>, Haibin Huang, Jacob Zhiyuan Fang, Yiding Yang, Chongyang Ma</div>
+    <div class="periodical"><em>ArXiv, 2025.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2505.22944.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- The links for Code, Project Page, and BibTex are placeholders as they are not provided in the LaTeX input. If available, they should be updated accordingly. -->
+      <a href="https://anytraj.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://github.com/bytedance/ATI" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://huggingface.co/bytedance-research/ATI" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Model</a>
+      <!-- If this publication has an oral presentation or any other highlight, it can be added here. -->
+      <!-- Example: <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+
 
 <li>
 <div class="pub-row">
