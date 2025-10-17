@@ -8,7 +8,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/TGT.jpg" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/TGT.jpeg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv Preprint</abbr>
   </div>
 
