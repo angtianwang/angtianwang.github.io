@@ -8,7 +8,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/ATI.gif" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/TGT.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv Preprint</abbr>
   </div>
 
@@ -18,9 +18,9 @@
 Bo Liu, Yiding Yang, Guang Chen, Longyin Wen, Alan Yuille, Chongyang Ma</div>
     <div class="periodical"><em>ArXiv, 2025.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2505.22944.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <!-- The links for Code, Project Page, and BibTex are placeholders as they are not provided in the LaTeX input. If available, they should be updated accordingly. -->
-      <a href="https://anytraj.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://textgroundedtraj.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <!-- <a href="https://github.com/bytedance/ATI" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
       <!-- <a href="https://huggingface.co/bytedance-research/ATI" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Model</a> -->
       <!-- If this publication has an oral presentation or any other highlight, it can be added here. -->
