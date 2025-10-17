@@ -8,7 +8,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/TGT.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/TGT.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv Preprint</abbr>
   </div>
 
@@ -48,6 +48,31 @@ Bo Liu, Yiding Yang, Guang Chen, Longyin Wen, Alan Yuille, Chongyang Ma</div>
       <a href="https://anytraj.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://github.com/bytedance/ATI" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://huggingface.co/bytedance-research/ATI" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Model</a>
+      <!-- If this publication has an oral presentation or any other highlight, it can be added here. -->
+      <!-- Example: <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/MAGREF.gif" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv Preprint</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2505.23742">MAGREF: Masked Guidance for Any-Reference Video Generation</a></div>
+    <div class="author">Yufan Deng, Xun Guo, Yuanyang Yin, Jacob Zhiyuan Fang, Yiding Yang, Yizhi Wang, Shenghai Yuan, <strong>Angtian Wang</strong>, Bo Liu, Haibin Huang, Chongyang Ma</div>
+    <div class="periodical"><em>ArXiv, 2025.</em></div>
+    <div class="links">
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- The links for Code, Project Page, and BibTex are placeholders as they are not provided in the LaTeX input. If available, they should be updated accordingly. -->
+      <a href="https://magref-video.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://github.com/MAGREF-Video/MAGREF" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://huggingface.co/MAGREF-Video/MAGREF/tree/main" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Model</a>
       <!-- If this publication has an oral presentation or any other highlight, it can be added here. -->
       <!-- Example: <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
     </div>
