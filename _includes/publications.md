@@ -13,14 +13,14 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">TGT: Text-Grounded Trajectories for Locally Controlled Video Generation</a></div>
+    <div class="title"><a href="https://arxiv.org/abs/2510.15104">TGT: Text-Grounded Trajectories for Locally Controlled Video Generation</a></div>
     <div class="author">Guofeng Zhang, <strong>Angtian Wang †</strong>, Jacob Zhiyuan Fang, Liming Jiang, Haotian Yang, 
 Bo Liu, Yiding Yang, Guang Chen, Longyin Wen, Alan Yuille, Chongyang Ma</div>
     <div class="periodical"><em>ArXiv, 2025.</em></div>
     <div class="links">
       <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <!-- The links for Code, Project Page, and BibTex are placeholders as they are not provided in the LaTeX input. If available, they should be updated accordingly. -->
-      <!-- <a href="https://arxiv.org/pdf/2508.15720.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
+      <a href="https://arxiv.org/abs/2510.15104.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://textgroundedtraj.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <!-- <a href="https://github.com/bytedance/ATI" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
       <!-- <a href="https://huggingface.co/bytedance-research/ATI" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Model</a> -->
