@@ -9,7 +9,13 @@ I am a Research Scientist at ByteDance working on GenAI. Previously, I earned my
 ## Work Experience
 
 ### ByteDance, Senior Research Scientist
-My main focus is on developing high-quality, controllable, and temporally consistent video generation models. My work covers localized control of video synthesis, ID/IP-conditioned video generation, and long-form video generation, as well as large-scale video foundation model training. I have been deeply involved in building the complete training system for video generation — from raw video collection and processing pipelines, to data loading, model design (DiT-based architectures), and large-scale distributed training. Our research has been successfully deployed in TikTok effect products such as [AI Mermaid](https://www.tiktok.com/effect/AI-Mermaid-2386487441) (best AI effects on TikTok since 2023).
+I am currently focused on the large-scale post-training and fine-tuning of next-generation video models, including Seedance 2.0/1.0 and Wan 2.1/2.2. My work bridges the gap between foundational research and scalable implementation through three core pillars:
+
+- Controllable Synthesis: Developing high-quality, temporally consistent video generation models with a focus on precise user control.
+
+- Architectural Optimization: Balancing the trade-offs between computational efficiency and generative quality by advancing foundational model architectures.
+
+- Autonomous Data Ecosystems: Scaling training datasets and labeling systems by leveraging agentic AI to automate and optimize the end-to-end data processing pipeline.
 
 {% include_relative _includes/publications.md %}
 
