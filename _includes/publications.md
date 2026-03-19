@@ -8,7 +8,7 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/HECTOR.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ArXiv</abbr>
+    <abbr class="badge">arXiv Preprint</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2603.08850">HECTOR: Hybrid Editable Compositional Object References for Video Generation</a></div>
@@ -26,7 +26,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/FSVideo.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ArXiv</abbr>
+    <abbr class="badge">arXiv Preprint</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -45,7 +45,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/VIVA.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ArXiv</abbr>
+    <abbr class="badge">CVPR</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -66,7 +66,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/StoryMem.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ArXiv</abbr>
+    <abbr class="badge">arXiv Preprint</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -87,7 +87,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/TGT.jpeg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv Preprint</abbr>
+    <abbr class="badge">CVPR</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
