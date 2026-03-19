@@ -5,6 +5,24 @@
 
 
 <li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/HECTOR.jpeg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ArXiv</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2603.08850">HECTOR: Hybrid Editable Compositional Object References for Video Generation</a></div>
+    <div class="author">Guofeng Zhang, <strong>Angtian Wang †</strong>, Jacob Zhiyuan Fang, Liming Jiang, Haotian Yang, Alan Yuille, Chongyang Ma</div>
+    <div class="periodical"><em>ArXiv, 2026.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2603.08850.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      </div>
+  </div>
+</div>
+</li>
+  
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
