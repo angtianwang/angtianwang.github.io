@@ -5,11 +5,9 @@
 
 
 <li>
-
-<li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/HECTOR.jpeg" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/HECTOR.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ArXiv</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -18,11 +16,73 @@
     <div class="periodical"><em>ArXiv, 2026.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2603.08850.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/fsvideo.jpeg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ArXiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2602.02092">FSVideo: Fast Speed Video Diffusion Model in a Highly-Compressed Latent Space</a></div>
+    <div class="author">FSVideo Team, Qingyu Chen, Zhiyuan Fang, Haibin Huang, Xinwei Huang, Tong Jin, Minxuan Lin, Bo Liu, Celong Liu, Chongyang Ma, Xing Mei, Xiaohui Shen, Yaojie Shen, Fuwen Tan, <strong>Angtian Wang</strong>, Xiao Yang, Yiding Yang, Jiamin Yuan, Lingxi Zhang, Yuxin Zhang</div>
+    <div class="periodical"><em>ArXiv, 2026.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2602.02092.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       </div>
   </div>
 </div>
 </li>
-  
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/viva.jpeg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ArXiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2512.16906">VIVA: VLM-Guided Instruction-Based Video Editing with Reward Optimization</a></div>
+    <div class="author">Xiaoyan Cong, Haotian Yang, <strong>Angtian Wang</strong>, Yizhi Wang, Yiding Yang, Canyu Zhang, Chongyang Ma</div>
+    <div class="periodical"><em>CVPR 2026</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2512.16906.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://viva-paper.github.io" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://github.com/Oliver-Cong02/VIVA" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> 
+      </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/storymem.jpeg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ArXiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2512.19539">StoryMem: Multi-shot Long Video Storytelling with Memory</a></div>
+    <div class="author">Kaiwen Zhang, Liming Jiang, <strong>Angtian Wang</strong>, Jacob Zhiyuan Fang, Tiancheng Zhi, Qing Yan, Hao Kang, Xin Lu, Xingang Pan</div>
+    <div class="periodical"><em>ArXiv, 2025.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2512.19539.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://kevin-thu.github.io/StoryMem" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://github.com/Kevin-thu/StoryMem" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> 
+      </div>
+  </div>
+</div>
+</li>
+
+<li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -34,7 +94,7 @@
     <div class="title"><a href="https://arxiv.org/abs/2510.15104">TGT: Text-Grounded Trajectories for Locally Controlled Video Generation</a></div>
     <div class="author">Guofeng Zhang, <strong>Angtian Wang †</strong>, Jacob Zhiyuan Fang, Liming Jiang, Haotian Yang, 
 Bo Liu, Yiding Yang, Guang Chen, Longyin Wen, Alan Yuille, Chongyang Ma</div>
-    <div class="periodical"><em>ArXiv, 2025.</em></div>
+    <div class="periodical"><em>CVPR 2026</em></div>
     <div class="links">
       <!-- The links for Code, Project Page, and BibTex are placeholders as they are not provided in the LaTeX input. If available, they should be updated accordingly. -->
       <a href="https://arxiv.org/abs/2510.15104.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
