@@ -13,6 +13,8 @@ I am currently focused on the large-scale post-training and fine-tuning of next-
 
 - Controllable Synthesis: Developing high-quality, temporally consistent video generation models with a focus on precise user control.
 
+- World Modeling via Long Video Generation: Exploring agentic storytelling and continuous long-video generation to move toward robust, large-scale world modeling.
+
 - Architectural Optimization: Balancing the trade-offs between computational efficiency and generative quality by advancing foundational model architectures.
 
 - Autonomous Data Ecosystems: Scaling training datasets and labeling systems by leveraging agentic AI to automate and optimize the end-to-end data processing pipeline.
