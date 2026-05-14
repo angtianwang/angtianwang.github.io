@@ -9,7 +9,7 @@ I am a Research Scientist at ByteDance working on GenAI. Previously, I earned my
 ## Work Experience
 
 ### ByteDance, Senior Research Scientist
-I am currently working on Seed world modeling project. Previously on the large-scale post-training and fine-tuning of next-generation video models, including Seedance 2.0/1.0 and Wan 2.1/2.2. My work bridges the gap between foundational research and scalable implementation through three core pillars:
+I am currently working on Seed world modeling project with main focus of interactive long video generation. Previously on the large-scale post-training and fine-tuning of next-generation video models, including Seedance 2.0/1.0 and Wan 2.1/2.2. My work bridges the gap between foundational research and scalable implementation through three core pillars:
 
 - Controllable Synthesis: Developing high-quality, temporally consistent video generation models with a focus on precise user control.
 
